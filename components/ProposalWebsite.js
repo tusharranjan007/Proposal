@@ -186,7 +186,7 @@ const ProposalWebsite = () => {
           <div className="mt-8 animate-fadeIn">
             <div className="text-xl md:text-3xl text-pink-600 font-bold space-y-2">
               <p>🎉 Now you are stuck with me forever! 🎉</p>
-              <p>❤️ I love you! ❤️</p>
+              <p>❤️ I love you!! ❤️</p>
             </div>
           </div>
         )}
